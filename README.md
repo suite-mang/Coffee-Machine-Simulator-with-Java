@@ -1,2 +1,2 @@
-# -BreadcrumbsCoffee-Machine-Simulator-
+# -Coffee-Machine-Simulator-
 order your coffee
